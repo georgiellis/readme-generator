@@ -1,5 +1,7 @@
-var fs = require("fs");
-var inquirer = require("inquirer")
+const fs = require("fs");
+const inquirer = require("inquirer");
+
+
 
 inquirer
 .prompt ([
@@ -130,6 +132,11 @@ inquirer
     If you have any questions about the repo, open an issue or contact ${username} directly at ${email}.
   `  
     
+    fs.writeFile("README.md", readMe, (err) => {
+        if (err) console.log(err);
+        else console.log("Read Me Complete.");
+    });
+
 })
 
 
