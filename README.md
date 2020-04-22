@@ -6,11 +6,7 @@
     A command-line application that dynamically generates a README.md from a user's input, using node.js and ES6+.
     
     - My motivation behind this project was to become more familiar with creating files using Node.Js
-    - 
-    - 
     - I got to learn more indepth about Node.js and it's dependencies such as inquirer and axios.
-    - 
-    - 
     
     ## Table of Contents 
     
