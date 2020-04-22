@@ -23,20 +23,6 @@
     
     npm install
     
-    ## License
-    
-    
-      
-    ## Contributing
-    
-    
-    
-    ## Tests
-    
-    To run tests, run the following command:
-    
-    
-    
     ## Questions
     
     
